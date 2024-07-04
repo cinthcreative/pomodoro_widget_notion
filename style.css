@@ -37,11 +37,11 @@ button:focus {
 /* Clock Body */
 
 .clock-container {
-  background-color: #495057; 
+  background-color: #212529; 
   width: 350px;
   border-radius: 20px;
   padding: 30px;
-  box-shadow: 10px 10px #343A40;
+  box-shadow: 10px 10px #6C757D;
 }
 
 /* Display + Stop/Start/Reset Controls */
@@ -103,7 +103,7 @@ button:focus {
 .session-container {
   text-align: center;
 /*   display: inline-block; */
-  border: 2px solid #343A40;
+  border: 3px solid #ADB5BD;
   padding: 10px;
   border-radius: 10px;
   width: 48%;
