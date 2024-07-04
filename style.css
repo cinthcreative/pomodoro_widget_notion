@@ -16,15 +16,15 @@ body {
 
 button,
 button:active {
-  background-color: #495057;
+  background-color: #ADB5BD;
   border: none;
   width: 42px;
   height: 40px;
   border-radius: 100%;
   text-align: center;
-  box-shadow: 0.2em 0.2em #495057;
-  -webkit-box-shadow: 0.2em 0.2em #495057;
-  -moz-box-shadow: 0.2em 0.2em #495057;
+  box-shadow: 0.2em 0.2em #343A40;
+  -webkit-box-shadow: 0.2em 0.2em #343A40;
+  -moz-box-shadow: 0.2em 0.2em #343A40;
 }
 
 button:focus {
@@ -41,7 +41,7 @@ button:focus {
   width: 350px;
   border-radius: 20px;
   padding: 30px;
-  box-shadow: 10px 10px #6C757D;
+  box-shadow: 10px 10px #495057;
 }
 
 /* Display + Stop/Start/Reset Controls */
@@ -49,7 +49,7 @@ button:focus {
 #time-left {
   font-size: 70px;
   text-align: center;
-  background-color: #F8F9FA;
+  background-color: #E9ECEF;
   padding: 20px;
   border-radius: 20px;
   box-shadow: 3px 3px #495057 inset;
@@ -103,7 +103,8 @@ button:focus {
 .session-container {
   text-align: center;
 /*   display: inline-block; */
-  border: 3px solid #F8F9FA;
+  border: 3px solid #495057;
+  background: #DEE2E6;
   padding: 10px;
   border-radius: 10px;
   width: 48%;
