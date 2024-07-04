@@ -22,9 +22,9 @@ button:active {
   height: 40px;
   border-radius: 100%;
   text-align: center;
-  box-shadow: 0.2em 0.2em #212529;
-  -webkit-box-shadow: 0.2em 0.2em #212529;
-  -moz-box-shadow: 0.2em 0.2em #212529;
+  box-shadow: 0.2em 0.2em #495057;
+  -webkit-box-shadow: 0.2em 0.2em #495057;
+  -moz-box-shadow: 0.2em 0.2em #495057;
 }
 
 button:focus {
@@ -37,11 +37,11 @@ button:focus {
 /* Clock Body */
 
 .clock-container {
-  background-color: #212529; 
+  background-color: #495057; 
   width: 350px;
   border-radius: 20px;
   padding: 30px;
-  box-shadow: 10px 10px #495057;
+  box-shadow: 10px 10px #343A40;
 }
 
 /* Display + Stop/Start/Reset Controls */
